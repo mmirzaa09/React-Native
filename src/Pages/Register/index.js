@@ -17,6 +17,7 @@ const Register = ({navigation: {goBack}}) => {
     console.log("Data yang Dikirim: ", form);
   };
 
+
   return (
 
     <View style={{backgroundColor: colors.default}}>
